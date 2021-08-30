@@ -10,7 +10,11 @@
 
 # SCSS 리팩토링 버전
 
-링크 넣을 곳
+https://github.com/ohminkwon/CloningOverwatchUI/tree/refactoring-scss
 
-## Reference
+## 변경 내역
+- nodeJS 환경 설정
+- css를 scss로 변경
+
+# Reference
 - https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla
