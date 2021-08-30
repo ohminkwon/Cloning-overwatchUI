@@ -6,7 +6,7 @@
 
 [DEMO](https://cloning-overwatch-ui-ohminkwon.netlify.app/)
 
-![Overwatch](./images/overwatch-ui.gif)
+![Overwatch](https://i.postimg.cc/CxctYDyv/overwatch-ui.gif)
 
 # SCSS 리팩토링 버전
 
